@@ -3,13 +3,13 @@ import setuptools
 setuptools.setup(
     name="piianalyzer",
     version="0.1.0",
-    url="https://github.com/github/piianalyzer",
+    url="https://github.com/ghynes/piianalyzer",
 
     author="Savio Abuga",
     author_email="savioabuga@gmail.com",
 
     description="Analyzing PII in datasets",
-    long_description=open('README.rst').read(),
+    #long_description=open('README.rst').read(),
 
     packages=setuptools.find_packages(),
 
